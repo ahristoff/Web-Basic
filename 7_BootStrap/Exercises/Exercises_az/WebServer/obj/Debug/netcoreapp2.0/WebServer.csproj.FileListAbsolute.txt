@@ -1,0 +1,132 @@
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\4_WEB SERVER_ASYNCHRONOUS_PROCESSING\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises new as from 4 lecture with cookies\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Lab\Lab Exercises ok\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Server with Cookies and Session\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Server Ok\Server with all ByTheCakeApp\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Ok_Server with all ByTheCakeApp 6_Lecture_IvoKenov\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\5_Web Server_State Managment\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\6_Web Server_Databases\Exercises\Exercises - Kopie\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Exercises\Exercises_az\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb

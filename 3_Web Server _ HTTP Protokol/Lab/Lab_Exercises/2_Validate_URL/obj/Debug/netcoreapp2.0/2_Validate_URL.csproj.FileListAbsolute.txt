@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\bin\Debug\netcoreapp2.0\2_Validate_URL.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\bin\Debug\netcoreapp2.0\2_Validate_URL.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\bin\Debug\netcoreapp2.0\2_Validate_URL.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\bin\Debug\netcoreapp2.0\2_Validate_URL.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\bin\Debug\netcoreapp2.0\2_Validate_URL.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Exercises\ConsoleApp1\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\bin\Debug\netcoreapp2.0\2_Validate_URL.deps.json
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\bin\Debug\netcoreapp2.0\2_Validate_URL.runtimeconfig.json
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\bin\Debug\netcoreapp2.0\2_Validate_URL.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\bin\Debug\netcoreapp2.0\2_Validate_URL.dll
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\bin\Debug\netcoreapp2.0\2_Validate_URL.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.dll
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\2_Validate_URL\obj\Debug\netcoreapp2.0\2_Validate_URL.pdb

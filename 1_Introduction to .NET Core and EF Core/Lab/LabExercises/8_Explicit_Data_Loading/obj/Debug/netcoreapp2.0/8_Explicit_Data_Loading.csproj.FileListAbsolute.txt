@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\bin\Debug\netcoreapp2.0\8_Explicit_Data_Loading.deps.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\bin\Debug\netcoreapp2.0\8_Explicit_Data_Loading.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\bin\Debug\netcoreapp2.0\8_Explicit_Data_Loading.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\bin\Debug\netcoreapp2.0\8_Explicit_Data_Loading.dll
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\obj\Debug\netcoreapp2.0\8_Explicit_Data_Loading.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\obj\Debug\netcoreapp2.0\8_Explicit_Data_Loading.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\obj\Debug\netcoreapp2.0\8_Explicit_Data_Loading.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\obj\Debug\netcoreapp2.0\8_Explicit_Data_Loading.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\bin\Debug\netcoreapp2.0\8_Explicit_Data_Loading.pdb
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\obj\Debug\netcoreapp2.0\8_Explicit_Data_Loading.dll
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\8_Explicit_Data_Loading\obj\Debug\netcoreapp2.0\8_Explicit_Data_Loading.pdb

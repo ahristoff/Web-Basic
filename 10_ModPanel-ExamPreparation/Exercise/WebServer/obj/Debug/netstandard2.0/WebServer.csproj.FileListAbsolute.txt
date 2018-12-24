@@ -1,0 +1,18 @@
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\WebServer\bin\Debug\netstandard2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\WebServer\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\WebServer\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\WebServer\obj\Debug\netstandard2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\WebServer\obj\Debug\netstandard2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\WebServer\obj\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\WebServer\obj\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\WebServer\bin\Debug\netstandard2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\WebServer\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\WebServer\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\WebServer\obj\Debug\netstandard2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\WebServer\obj\Debug\netstandard2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\WebServer\obj\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\WebServer\obj\Debug\netstandard2.0\WebServer.pdb

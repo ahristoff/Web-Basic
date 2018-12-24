@@ -1,0 +1,36 @@
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.deps.json
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.pdb
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csproj.CopyComplete
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\GameStore-ExamPreparation\Exercises\GameStoreSimpleMvc-a713beab85af882677b766fda440b8a707d6ebf4\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csproj.CopyComplete
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.deps.json
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csproj.CopyComplete
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\11_GameStore-ExamPreparation\Exercises\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.pdb

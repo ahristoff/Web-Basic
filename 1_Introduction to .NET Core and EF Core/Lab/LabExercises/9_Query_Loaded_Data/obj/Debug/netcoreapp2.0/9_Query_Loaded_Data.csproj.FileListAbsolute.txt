@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\bin\Debug\netcoreapp2.0\9_Query_Loaded_Data.deps.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\bin\Debug\netcoreapp2.0\9_Query_Loaded_Data.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\bin\Debug\netcoreapp2.0\9_Query_Loaded_Data.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\bin\Debug\netcoreapp2.0\9_Query_Loaded_Data.dll
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\obj\Debug\netcoreapp2.0\9_Query_Loaded_Data.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\obj\Debug\netcoreapp2.0\9_Query_Loaded_Data.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\obj\Debug\netcoreapp2.0\9_Query_Loaded_Data.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\obj\Debug\netcoreapp2.0\9_Query_Loaded_Data.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\bin\Debug\netcoreapp2.0\9_Query_Loaded_Data.pdb
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\obj\Debug\netcoreapp2.0\9_Query_Loaded_Data.dll
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\9_Query_Loaded_Data\obj\Debug\netcoreapp2.0\9_Query_Loaded_Data.pdb

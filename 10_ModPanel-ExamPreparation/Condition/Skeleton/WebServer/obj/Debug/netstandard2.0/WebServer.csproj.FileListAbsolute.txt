@@ -1,0 +1,18 @@
+C:\Users\Trainer\Desktop\MvcDemo\08. Web-Dev-Basics-Introduction-To-MVC\WebServer\bin\Debug\netstandard2.0\WebServer.deps.json
+C:\Users\Trainer\Desktop\MvcDemo\08. Web-Dev-Basics-Introduction-To-MVC\WebServer\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\Trainer\Desktop\MvcDemo\08. Web-Dev-Basics-Introduction-To-MVC\WebServer\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\Trainer\Desktop\MvcDemo\08. Web-Dev-Basics-Introduction-To-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Trainer\Desktop\MvcDemo\08. Web-Dev-Basics-Introduction-To-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\Trainer\Desktop\MvcDemo\08. Web-Dev-Basics-Introduction-To-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfo.cs
+C:\Users\Trainer\Desktop\MvcDemo\08. Web-Dev-Basics-Introduction-To-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.dll
+C:\Users\Trainer\Desktop\MvcDemo\08. Web-Dev-Basics-Introduction-To-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.pdb
+C:\Users\Trainer\Desktop\MvcDemo\08. Web-Dev-Basics-Introduction-To-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\Trainer\Desktop\RealExamPrep\Skeleton\WebServer\bin\Debug\netstandard2.0\WebServer.deps.json
+C:\Users\Trainer\Desktop\RealExamPrep\Skeleton\WebServer\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\Trainer\Desktop\RealExamPrep\Skeleton\WebServer\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\Trainer\Desktop\RealExamPrep\Skeleton\WebServer\obj\Debug\netstandard2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\Trainer\Desktop\RealExamPrep\Skeleton\WebServer\obj\Debug\netstandard2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Trainer\Desktop\RealExamPrep\Skeleton\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\Trainer\Desktop\RealExamPrep\Skeleton\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfo.cs
+C:\Users\Trainer\Desktop\RealExamPrep\Skeleton\WebServer\obj\Debug\netstandard2.0\WebServer.dll
+C:\Users\Trainer\Desktop\RealExamPrep\Skeleton\WebServer\obj\Debug\netstandard2.0\WebServer.pdb

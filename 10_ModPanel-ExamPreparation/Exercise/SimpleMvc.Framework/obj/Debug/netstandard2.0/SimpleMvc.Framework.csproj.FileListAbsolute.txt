@@ -1,0 +1,24 @@
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.deps.json
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.pdb
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csproj.CopyComplete
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.deps.json
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\bin\Debug\netstandard2.0\SimpleMvc.Framework.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.csproj.CopyComplete
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\SimpleMvc.Framework\obj\Debug\netstandard2.0\SimpleMvc.Framework.pdb

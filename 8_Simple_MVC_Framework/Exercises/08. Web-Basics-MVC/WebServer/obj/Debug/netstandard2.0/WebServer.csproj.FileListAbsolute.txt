@@ -1,0 +1,18 @@
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\bin\Debug\netstandard2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Web-GitHub\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\bin\Debug\netstandard2.0\WebServer.deps.json
+C:\Users\ALEN\Desktop\Web-GitHub\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\bin\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Web-GitHub\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\bin\Debug\netstandard2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Web-GitHub\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Web-GitHub\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Web-GitHub\8_Simple_MVC_Framework\Exercises\08. Web-Basics-MVC\WebServer\obj\Debug\netstandard2.0\WebServer.pdb

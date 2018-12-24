@@ -1,0 +1,33 @@
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Exercises\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.deps.json
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.runtimeconfig.json
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.dll
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\bin\Debug\netcoreapp2.0\BootStrapDemo.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.dll
+C:\Users\ALEN\Desktop\Web-GitHub\7_BootStrap\Lab\BootStrap\BootStrapDemo\obj\Debug\netcoreapp2.0\BootStrapDemo.pdb

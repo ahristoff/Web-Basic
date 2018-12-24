@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\bin\Debug\netcoreapp2.0\Football_Betting.deps.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\bin\Debug\netcoreapp2.0\Football_Betting.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\bin\Debug\netcoreapp2.0\Football_Betting.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\bin\Debug\netcoreapp2.0\Football_Betting.dll
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\bin\Debug\netcoreapp2.0\Football_Betting.pdb
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.dll
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Exercises\Exercises\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.pdb

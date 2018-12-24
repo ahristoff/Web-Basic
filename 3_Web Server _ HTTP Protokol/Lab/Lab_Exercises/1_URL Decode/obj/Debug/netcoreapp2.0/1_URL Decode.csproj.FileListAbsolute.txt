@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\bin\Debug\netcoreapp2.0\1_URL Decode.deps.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\bin\Debug\netcoreapp2.0\1_URL Decode.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\bin\Debug\netcoreapp2.0\1_URL Decode.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\bin\Debug\netcoreapp2.0\1_URL Decode.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\bin\Debug\netcoreapp2.0\1_URL Decode.pdb
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.dll
+C:\Users\ALEN\Desktop\WEB\Web Development Basic\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\ConsoleApp1\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\bin\Debug\netcoreapp2.0\1_URL Decode.deps.json
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\bin\Debug\netcoreapp2.0\1_URL Decode.runtimeconfig.json
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\bin\Debug\netcoreapp2.0\1_URL Decode.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\bin\Debug\netcoreapp2.0\1_URL Decode.dll
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\bin\Debug\netcoreapp2.0\1_URL Decode.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.dll
+C:\Users\ALEN\Desktop\Web-GitHub\3_Web Server _ HTTP Protokol\Lab\Lab_Exercises\1_URL Decode\obj\Debug\netcoreapp2.0\1_URL Decode.pdb

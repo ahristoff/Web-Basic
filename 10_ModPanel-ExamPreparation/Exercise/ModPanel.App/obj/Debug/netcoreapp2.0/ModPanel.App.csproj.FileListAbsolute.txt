@@ -1,0 +1,32 @@
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.deps.json
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.runtimeconfig.json
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.pdb
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.csproj.CopyComplete
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.dll
+C:\Users\ALEN\Desktop\Neuer Ordner\ModPanel-9ba82a4762b78d4c346a513ab62efba0c786fdc5\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.deps.json
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.runtimeconfig.json
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\bin\Debug\netcoreapp2.0\ModPanel.App.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.csproj.CopyComplete
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.dll
+C:\Users\ALEN\Desktop\Web-GitHub\Web Development Basic\10_ModPanel-ExamPreparation\Exercise\ModPanel.App\obj\Debug\netcoreapp2.0\ModPanel.App.pdb

@@ -1,0 +1,29 @@
+﻿@model List<BookListingModel>
+
+<table border="1">
+    <tr>
+        <th style="padding:10px">
+            Id
+        </th>
+        <th style="padding:10px">
+            Name
+        </th>
+        <th style="padding:10px">
+            Author
+        </th>
+    </tr>
+    @foreach (var book in Model)
+    {
+    <tr>
+        <td style="text-align:center">@book.Id</td>
+        <td style="text-align:center">@book.Name</td>
+        <td style="text-align:center">@book.Author</td>  
+        <td><a href="/Books/Details/@book.Id"style="padding: 10px">More Details</a></td>
+    </tr>
+    }
+
+</table>
+
+<br />
+<br />
+<a href="/Books/Create">Create book</a>

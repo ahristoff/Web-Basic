@@ -1,0 +1,24 @@
+﻿<h1>Create Book</h1>
+<br />
+<br />
+<div class="alert alert-danger alert-dismissable" style="display:@ViewData["showError"]">
+    <a class="close" data-dismiss="alert" aria-label="close">×</a>
+    @ViewData["error"]
+</div>
+<br />
+<br />
+<form method="post">
+    Title: <input type="text" name="Title" style="margin-left:15px"/>
+    <br />
+    <br />
+    Year: <input type="number" name="Year" min="1950" max="2050" step="1" style="margin-left:13px"/>
+    <br />
+    <br />
+    Author: <input type="text" name="Author" />
+    <br />
+    <br />
+    <input type="submit" value="Save Book" />
+</form>
+<br />
+<br />
+<a href="/Books/All">All books</a>

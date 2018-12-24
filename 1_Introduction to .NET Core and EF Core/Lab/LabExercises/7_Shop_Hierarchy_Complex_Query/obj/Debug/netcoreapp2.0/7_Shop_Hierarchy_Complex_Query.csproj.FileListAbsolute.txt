@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\bin\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.deps.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\bin\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\bin\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\bin\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.dll
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\obj\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\obj\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\obj\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\obj\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\bin\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.pdb
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\obj\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.dll
+C:\Users\ALEN\Desktop\WEB\1_Introduction to .NET Core and EF Core\Lab\LabExercises\7_Shop_Hierarchy_Complex_Query\obj\Debug\netcoreapp2.0\7_Shop_Hierarchy_Complex_Query.pdb
